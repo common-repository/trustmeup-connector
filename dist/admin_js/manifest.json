@@ -1,0 +1,22 @@
+{
+  "admin.js": "admin_js/admin-6b68c6c6.js",
+  "admin.js.map": "admin_js/admin-6b68c6c6.js.map",
+  "runtime.js": "admin_js/runtime-34c61b85.js",
+  "runtime.js.map": "admin_js/runtime-34c61b85.js.map",
+  "vendors~admin.js": "admin_js/vendors~admin-5ac74f75.js",
+  "vendors~admin.js.map": "admin_js/vendors~admin-5ac74f75.js.map",
+  "wpackioEp": {
+    "admin": {
+      "js": [
+        "admin_js/runtime-34c61b85.js",
+        "admin_js/vendors~admin-5ac74f75.js",
+        "admin_js/admin-6b68c6c6.js"
+      ],
+      "js.map": [
+        "admin_js/runtime-34c61b85.js.map",
+        "admin_js/vendors~admin-5ac74f75.js.map",
+        "admin_js/admin-6b68c6c6.js.map"
+      ]
+    }
+  }
+}

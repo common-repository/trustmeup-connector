@@ -1,0 +1,13 @@
+Description for each plugin screenshot:
+
+1. The first step to configure the plugin is to enter your credentials by clicking on "Settings" at the top right.
+
+2. In the Settings tab enter the Client Id and Password, then click on save.
+
+3. From the "Owerview" tab you will see the offers of your TrustMeUp showcase, on the left side and using the "Connect offers" commands you will have the possibility to link your products to each offer.
+
+4. Select the "Connect offers" option of the offer you want and click on "select all available" if you want to link all the products in your catalog otherwise select the products of your preference individually. Click "Save" to complete the procedure.
+
+5. The products linked to the offer are highlighted in green, the products highlighted in yellow are linked to other offers in your TrustMeUp showcase while those not highlighted are the products available for linking.
+
+6. In the event that you need to modify an offer, simply click on "Edit connected offers" and repeat the procedure from point 4.

@@ -1,0 +1,26 @@
+{
+  "admin.css": "admin_css/admin-e8054c8f.css",
+  "admin.css.map": "admin_css/admin-e8054c8f.css.map",
+  "admin.js": "admin_css/admin-d630ae59.js",
+  "admin.js.map": "admin_css/admin-d630ae59.js.map",
+  "runtime.js": "admin_css/runtime-05b3d876.js",
+  "runtime.js.map": "admin_css/runtime-05b3d876.js.map",
+  "wpackioEp": {
+    "admin": {
+      "js": [
+        "admin_css/runtime-05b3d876.js",
+        "admin_css/admin-d630ae59.js"
+      ],
+      "js.map": [
+        "admin_css/runtime-05b3d876.js.map",
+        "admin_css/admin-d630ae59.js.map"
+      ],
+      "css": [
+        "admin_css/admin-e8054c8f.css"
+      ],
+      "css.map": [
+        "admin_css/admin-e8054c8f.css.map"
+      ]
+    }
+  }
+}

@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TrustMeUp WooCommerce Connector 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trustmeup\n"
+"POT-Creation-Date: 2021-01-26T17:49:23+00:00\n"
+"PO-Revision-Date: 2022-10-27 18:15+0530\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.2\n"
+"X-Domain: trustmeup\n"
+"X-Loco-Version: 2.5.2; wp-5.8.1\n"
+
+#: includes/classes/ajax-routes/products-connect.php:52
+msgid "%1$d product(s) successfully connected."
+msgstr "%1$d prodotto(i) connessi."
+
+#: includes/classes/ajax-routes/products-disconnect.php:36
+msgid "%1$d products have been disconnected from their TrustMeUp equivalent."
+msgstr "%1$d prodotti sono stati disconnessi dai loro rispettivi in TrustMeUp."
+
+#: includes/classes/products-connector.php:167
+msgid ""
+"%1$d products' connections have been deleted (%2$d metadata rows deleted)."
+msgstr ""
+"%1$d connessioni ai prodotti sono state cancellate (%2$d record di metadati "
+"cancellati)."
+
+#: includes/classes/ajax-routes/products-connect.php:47
+msgid "%1$d WooCommerce products have been connected to %2$s."
+msgstr "%1$d prodotti WooCommerce sono stati connessi a %2$s."
+
+#: includes/classes/products-connector.php:199
+msgid "%1$d WooCommerce products have been disconnected from %2$s."
+msgstr "%1$d prodotti WooCommerce disconnessi da %2$s."
+
+#: includes/classes/ajax-routes/products-disconnect.php:43
+msgid "%1$d WooCommerce products have been disconnected."
+msgstr "%1$d prodotti WooCommerce disconnessi."
+
+#: includes/woocommerce.php:211
+msgid ""
+"<strong>Message from TrustMeUp: Donate By Shopping!</strong>\n"
+"\t\t\tYou can still get a %1$s discount on this purchase by donating to your "
+"favourite Non-Profit Association <em>%3$s by %4$s</em>! <a href=\"%2$s"
+"\">Donate now</a>."
+msgstr ""
+"<strong>Messaggio da TrustMeUp: Dona Comprando!</strong>\n"
+"\t\t\tPuoi ottenere ancora %1$s di sconto su questo acquisto donandolo alla "
+"tua Associazione Non Profit preferita %4$s</em>! <a href=\"%2$s\">Dona ora</"
+"a>."
+
+#: includes/woocommerce.php:220
+msgid ""
+"<strong>Message from TrustMeUp: Donate By Shopping!</strong>\n"
+"\t\t\tYou can still get a %1$s discount on this purchase by donating to your "
+"favourite Non-Profit Association! <a href=\"%2$s\">Donate now</a>."
+msgstr ""
+"<strong>Messaggio da TrustMeUp: Dona Comprando!</strong>\n"
+"\t\t\tPuoi ottenere ancora %1$s di sconto su questo acquisto donandolo alla "
+"tua Associazione Non Profit preferita! <a href=\"%2$s\">Dona ora</a>."
+
+#: includes/scheduler.php:95
+msgid "A fresh list of %1$d TrustMeUp products has been saved locally."
+msgstr "Una nuova lista di %1$d prodotti TrustMeUp è stata salvata localmente."
+
+#: includes/strings.php:76
+msgid "Already connected"
+msgstr "Già collegato"
+
+#: includes/strings.php:78
+msgid "Available for connection"
+msgstr "Disponibile al collegamento"
+
+#: includes/strings.php:26
+msgid "Cancel"
+msgstr "Cancella"
+
+#: includes/strings.php:69
+msgid "Client ID"
+msgstr "ID Cliente"
+
+#: includes/strings.php:24
+msgid "Connect"
+msgstr "Connetti"
+
+#: includes/strings.php:51
+msgid "Connect offer"
+msgstr "Collega offerta"
+
+#: includes/strings.php:25
+msgid "Connect offers"
+msgstr "Collega offerte"
+
+#. Description of the plugin
+msgid "Connect your WooCommerce shop with your TrustMeUp shop."
+msgstr "Connetti il tuo negozio WooCommerce con il tuo negozio TrustMeUp."
+
+#: includes/strings.php:41
+msgid "Connected at"
+msgstr "Connesso a"
+
+#: includes/strings.php:56
+msgid "Connected offers"
+msgstr "Offerte collegate"
+
+#: includes/strings.php:77
+msgid "Connected with other offer"
+msgstr "Collegato ad altra offerta"
+
+#: includes/strings.php:22
+msgid "Disconnect"
+msgstr "Disconnetti"
+
+#: includes/strings.php:23
+msgid "Disconnect all"
+msgstr "Disconnetti tutto"
+
+#: includes/strings.php:43
+msgid "Disconnect all offers"
+msgstr "Disconnetti tutte le offerte"
+
+#: includes/strings.php:29
+msgid "Disconnect all offers?"
+msgstr "Vuoi disconnettere tutte le offerte?"
+
+#: includes/scheduler.php:130
+msgid ""
+"Disconnecting #%1$d because it is no longer present in TrustMeUp products "
+"list."
+msgstr ""
+"Disconnessione #%1$d perchè non più presente nella lista prodotti TrustMeUp."
+
+#: includes/strings.php:36
+msgid "Discount"
+msgstr "Sconto"
+
+#: includes/admin/order.php:71
+msgid "Donor:"
+msgstr "Donor:"
+
+#: includes/strings.php:19
+msgid "Edit"
+msgstr "Modifica"
+
+#: includes/strings.php:20
+msgid "Edit connected offers"
+msgstr "Modifica offerte collegate"
+
+#: includes/classes/ajax-routes/products-disconnect.php:46
+msgid "Error while trying to disconnect a product."
+msgstr "Errore nella disconnessione del prodotto."
+
+#: includes/strings.php:47
+msgid "Group offer"
+msgstr "Gruppo di offerte"
+
+#. Author URI of the plugin
+msgid "https://www.trustmeup.com/"
+msgstr "https://www.trustmeup.com/"
+
+#: includes/admin/order.php:69
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/strings.php:75
+msgid "Legend:"
+msgstr "Legenda:"
+
+#: includes/strings.php:38
+#| msgid "No connected products yet…"
+msgid "No connected offers yet…"
+msgstr "Non risultano offerte collegate al momento..."
+
+#: includes/strings.php:40
+msgid "No offers found…"
+msgstr "Nessuna offerta trovata..."
+
+#: includes/strings.php:39
+#| msgid "No products in your shop yet…"
+msgid "No offers in your shop yet…"
+msgstr "Non ci sono ancora prodotti nel tuo shop..."
+
+#: includes/classes/api-trustmeup.php:219
+msgid "No token found in response."
+msgstr "Nessun token trovato nella risposta."
+
+#: includes/admin/order.php:43
+msgid "No TrustMeUp data for this order..."
+msgstr "Nessun dato in TrustMeUp per questo ordine..."
+
+#: includes/strings.php:34
+msgid "Offer"
+msgstr "Offerta"
+
+#: includes/strings.php:61
+msgid "Overview"
+msgstr "Generale"
+
+#: includes/admin/order.php:102 includes/woocommerce.php:124
+#: includes/woocommerce.php:125
+#, fuzzy
+msgid "PAC discount"
+msgstr "Valore PAC"
+
+#: includes/woocommerce.php:106 includes/woocommerce.php:107
+msgid "PAC discount available"
+msgstr "Sconto PAC usufruibile"
+
+#: includes/admin/order.php:50 includes/admin/order.php:125
+msgid "PAC discount:"
+msgstr "Valore PAC:"
+
+#: includes/strings.php:70
+msgid "Password"
+msgstr "Password"
+
+#: includes/strings.php:33
+msgid "Please enter your TrustMeUp API credentials in the Settings tab."
+msgstr ""
+"Prego inserire le proprie credenziali TrustMeUp nella scheda Impostazioni."
+
+#: includes/notices.php:35
+msgid ""
+"Please visit <a href=\"%1$s\">the Settings tab</a> to enter your TrustMeUp "
+"credentials."
+msgstr ""
+"Prego andate nella scheda Impostazioni per inserire le vostre credenziali "
+"TrustMeUp."
+
+#: includes/classes/ajax-routes/products-refresh.php:32
+msgid "Products list refreshed."
+msgstr "Lista prodotti aggiornata."
+
+#: includes/admin/order.php:70
+msgid "Products:"
+msgstr "Prodotti:"
+
+#: includes/strings.php:18
+msgid "Refresh"
+msgstr "Aggiorna"
+
+#: includes/strings.php:28
+msgid "Refresh offers list"
+msgstr "Ricarica offerte"
+
+#: includes/strings.php:21
+msgid "Reset"
+msgstr "Reset"
+
+#: includes/strings.php:17
+msgid "Save"
+msgstr "Salva"
+
+#: includes/woocommerce.php:263
+msgid "Saving TrustMeUp order metadata (PAC discount: %1$s)."
+msgstr "Salvataggio metadati ordini TrustMeUp (Valore PAC: %1$s)."
+
+#: includes/strings.php:72
+msgid "Search offers"
+msgstr "Cerca prodotti"
+
+#: includes/strings.php:52
+#| msgid "Select a product from your shop on the right."
+msgid "Select a offer from your shop on the right."
+msgstr "Seleziona un prodotto dal tuo shop sulla destra."
+
+#: includes/strings.php:30
+msgid "Select all available"
+msgstr "Seleziona tutti i disponibili"
+
+#: includes/strings.php:53
+msgid "Select one or many offers from your shop on the right."
+msgstr "Selezione uno o più prodotti dal tuo shop sulla destra"
+
+#: includes/strings.php:62
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/classes/ajax-routes/fields-save.php:77
+msgid "Settings saved."
+msgstr "Impostazioni salvate."
+
+#: includes/strings.php:48
+msgid "Single offer"
+msgstr "Offerta singola"
+
+#: includes/strings.php:35
+msgid "SKU"
+msgstr "SKU"
+
+#: includes/strings.php:46
+msgid "Storewide discount"
+msgstr "Sconto Globale Negozio"
+
+#: includes/strings.php:57
+msgid "Synchronization queue"
+msgstr "Coda di sincronizzazione"
+
+#: includes/strings.php:37
+msgid "Synchronization scheduled at"
+msgstr "Sincronizzazione programmata per"
+
+#: includes/strings.php:27
+msgid "Synchronize with TrustMeUp"
+msgstr "Sincronizza con TrustMeUp"
+
+#: includes/strings.php:42
+#| msgid ""
+#| "The products listed below will soon be synchronized with your WooCommerce "
+#| "shop."
+msgid ""
+"The offers listed below will soon be synchronized with your WooCommerce shop."
+msgstr ""
+"Le offerte elencate di seguito saranno presto sincronizzate con il tuo "
+"negozio WooCommerce."
+
+#: includes/notices.php:18
+msgid ""
+"The TrustMeUp plugin requirements are not met (the WooCommerce plugin and at "
+"least PHP 5.6 and WordPress 5.5 are required)."
+msgstr "Non sono rispettate le richieste per il plugin TrustMeUp "
+
+#: includes/classes/ajax-routes/products-resync.php:22
+msgid ""
+"Token not found: please check your TrustMeUp credentials in the Settings tab."
+msgstr ""
+"Token non trovato: prego verificare le tue credenziali TrustMeUp nella "
+"scheda Impostazioni."
+
+#. Author of the plugin
+#: includes/admin.php:31 includes/admin.php:32 includes/strings.php:16
+msgid "TrustMeUp"
+msgstr "TrustMeUp"
+
+#: includes/strings.php:58
+msgid "TrustMeUp API credentials"
+msgstr "Credenziali TrustMeUp"
+
+#: includes/classes/ajax-routes/fields-save.php:59
+msgid ""
+"TrustMeUp authentication failed. Please verify your client ID and password."
+msgstr ""
+"Autenticazione TrustMeUp fallita. Verifica il tuo ID cliente e password."
+
+#: includes/classes/ajax-routes/fields-save.php:68
+msgid "TrustMeUp authentication successful. Synchronization will start soon."
+msgstr ""
+"Autenticazione TrustMeUp avvenuta con successo. La sincronizzazione partirà "
+"a breve."
+
+#: includes/strings.php:49
+msgid "TrustMeUp offer"
+msgstr "Offerte TrustMeUp"
+
+#: includes/admin/order.php:17
+msgid "TrustMeUp Order"
+msgstr "Ordine TrustMeUp"
+
+#: includes/woocommerce.php:294
+msgid "TrustMeUp order has been completed; PACs have been burned."
+msgstr ""
+"L'ordine TrustMeUp è stato completato. I PAC sono stati correttamente "
+"utilizzati."
+
+#: includes/classes/ajax-routes/products-resync.php:38
+msgid "TrustMeUp products have been synchronized again."
+msgstr "I prodotti TrustMeUp sono stati sincronizzati di nuovo."
+
+#. Plugin Name of the plugin
+msgid "TrustMeUp WooCommerce Connector"
+msgstr "TrustMeUp WooCommerce Connector"
+
+#: includes/strings.php:71
+msgid "Use my TrustMeUp beta credentials"
+msgstr "Usa le mie credenziali TrustMeUp BETA."
+
+#: includes/strings.php:45
+msgid ""
+"Visit the %1$sDevelopers section%2$s of your TrustMeUp Beta Merchant account "
+"to find your client ID and password."
+msgstr ""
+"Visita la %1$ssezione Sviluppatori%2$s del tuo account Merchant TrustMeUp "
+"Beta per trovare i tuoi client ID e password."
+
+#: includes/strings.php:44
+#| msgid ""
+#| "Visit the %1$sDevelopers%2$s section of your TrustMeUp Merchant account "
+#| "to find your client ID and password."
+msgid ""
+"Visit the %1$sDevelopers section%2$s of your TrustMeUp Merchant account to "
+"find your client ID and password."
+msgstr ""
+"Visita la sezione %1$sDevelopers%2$s del tuo account Merchant TrustMeUp per "
+"trovare il tuo ID cliente e password."
+
+#: includes/strings.php:50
+msgid "WooCommerce offers"
+msgstr "Prodotti WooCommerce"
+
+#: includes/classes/ajax-routes/fields-save.php:17
+#: includes/classes/ajax-routes/products-connect.php:18
+#: includes/classes/ajax-routes/products-disconnect.php:17
+#: includes/classes/ajax-routes/products-refresh.php:18
+#: includes/classes/ajax-routes/products-resync.php:18
+msgid "You can't do that."
+msgstr "Operazione non valida."
+
+#: includes/classes/ajax-routes/fields-save.php:21
+msgid "You need to provide some fields."
+msgstr "Devi completare alcuni campi."
+
+#: includes/woocommerce.php:115 includes/woocommerce.php:116
+msgid "Your PACs available"
+msgstr "I tuoi PAC disponibili"
+
+#: includes/strings.php:66
+#| msgid "Your TrustMeUp authentication is invalid."
+msgid "Your TrustMeUp authentication is absent or invalid."
+msgstr "La tua autenticazione TrustMeUp non è valida."
+
+#: includes/strings.php:65
+msgid "Your TrustMeUp token is"
+msgstr "Il tuo token TrustMeUp è"
+
+#: includes/woocommerce.php:55
+msgid "Your PAC discount is applied here!"
+msgstr "Il tuo sconto PAC viene applicato qui!"
+
+#: includes/woocommerce.php:56
+msgid "Shop with confidence and proceed to the checkout to see your PAC discount."
+msgstr "Acquista con fiducia e procedi al carrello per vedere il tuo sconto PAC."
+
+msgid "Subtotal"
+msgstr "Subtotale"
+
+msgid "Total"
+msgstr "Totale"
+
+msgid "Message from TrustMeUp: Donate by Shopping!"
+msgstr "Messaggio da TrustMeUp: Dona Comprando!"
+
+msgid "Support your favorite association [preferred NGO name], donate [PAC discount available - Your PACs available, if difference> = 5] which will be immediately discounted from the price of your purchase!"
+msgstr "Sostieni la tua associazione preferita [preferred NGO name], dona [sconto PAC usufruibile - i tuoi PAC disponibili, se differenza >= 5] che ti verranno immediatamente scontati dal prezzo del tuo acquisto!"
+
+msgid "Donate now."
+msgstr "Dona ora."

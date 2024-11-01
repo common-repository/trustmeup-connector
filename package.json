@@ -1,0 +1,27 @@
+{
+  "name": "trustmeup",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@wpackio/scripts": "^5.0.0",
+    "sass": "^1.32.2"
+  },
+  "scripts": {
+    "bootstrap": "wpackio-scripts bootstrap",
+    "build": "wpackio-scripts build",
+    "start": "wpackio-scripts start",
+    "archive": "wpackio-scripts pack"
+  },
+  "dependencies": {
+    "@sparkpost/matchbox": "^4.7.2",
+    "@sparkpost/matchbox-icons": "^4.7.2",
+    "@wpackio/entrypoint": "^5.0.0",
+    "axios": "^0.21.1",
+    "react": "^17.0.1",
+    "react-day-picker": "^7.4.8",
+    "react-dom": "^17.0.1",
+    "react-hot-loader": "^4.13.0",
+    "recharts": "^2.0.3",
+    "styled-components": "^5.2.1"
+  }
+}
